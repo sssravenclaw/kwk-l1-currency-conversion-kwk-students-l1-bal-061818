@@ -1,4 +1,40 @@
+## Today's Code ChaClose
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
 ## Today's Code Challenge!
+### Currency Conversion
+Congratulations, you just won a contest to travel the 
+world!!! Before you embark
+on your journey, you're obviously going to have to learn a 
+little about spending
+money in various countries because you can't use the 
+United States Dollar
+everywhere. In this challenge, you're going to build some 
+conversion methods for
+the top 5 used currencies in the world. Once you're done, 
+you should be able to
+apply what you learned to build a converter for any 
+country you would like to
+visit. Let your imagination run wild!
+![](https://s3.amazonaws.com/upperline/curriculum-assets/c
+urrency-top5.png)
+### Challenge 1
+llenge!
 
 ### Currency Conversion
 
